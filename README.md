@@ -131,11 +131,17 @@
 
 
 <div data-importer="stats" align="center">
-  <a href="https://github.com/anangsp9">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anangsp9&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="anangsp9's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com?user=anangsp9&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/anangsp9/anangsp9/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+  <p align="center">
+    <a href="https://github.com/anangsp9">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anangsp9&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="anangsp9's GitHub Stats" />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=anangsp9&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/anangsp9/anangsp9/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+  </p>
 </div>
 
 ###
