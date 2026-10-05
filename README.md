@@ -1,5 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Anang%20SP&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
+
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=anangsp9.anangsp9&right_color=red"  />
+</div>
+
 ###
 
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
@@ -16,33 +26,18 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=anangsp9.anangsp9&right_color=red"  />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
-
-## 📊 GitHub Stats & Trophies
+## 🔗 Connect with Me
 <p align="center">
-  <a href="https://github.com/anangsp9">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anangsp9&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="anangsp9's GitHub Stats" />
+  <a href="www.linkedin.com/in/anangsepriyantop">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=anangsp9&theme=radical&hide_border=true&cache_seconds=86400" alt="anangsp9's GitHub Streak" width="49%" />
+  <a href="mailto:anangsepriyantop@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+  <a href="https://portofolioanangsp.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=anangsp9&theme=radical&radius=10" alt="anangsp9's Activity Graph" />
-</p>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/anangsp9/anangsp9/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=anangsp9&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/anangsp9/anangsp9/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
-</div>
-
-###
-
 
 ## 🛠️ Languages & Tools
 
@@ -130,22 +125,20 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/anangsepriyantop">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="mailto:anangsepriyantop@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-  <a href="https://portofolioanangsp.netlify.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+###
+
+
+<div data-importer="stats" align="center">
+  <a href="https://github.com/anangsp9">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anangsp9&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="anangsp9's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com?user=anangsp9&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/anangsp9/anangsp9/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+</div>
+
+###
 
 ###
 
@@ -160,6 +153,10 @@
 </picture>
 
 ###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
